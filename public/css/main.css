@@ -17485,7 +17485,7 @@ header nav .nav-close-btn.active {
   font-weight: bold;
   font-size: 15px;
   margin-top: 10px;
-  line-height: 157.2%;
+  line-height: 125%;
   text-align: center;
   letter-spacing: 0.5px;
   text-align: center;
@@ -19955,11 +19955,11 @@ header nav .nav-close-btn.active {
 }
 
 .application-right-2.active .application-title button::before {
-  top: 10rem !important;
+  top: 1rem !important;
 }
 
 .application-right-2.active .application-title button::after {
-  top: 10rem !important;
+  top: 1rem !important;
 }
 
 .application-medium-5 .application-right-active .in-catalog {
