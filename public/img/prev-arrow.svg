@@ -1,5 +1,5 @@
 <svg width="52" height="27" viewBox="0 0 52 27" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M51.5681 1L26.9864 26.1808L1.00001 1" stroke="url(#paint0_diamond)"/>
+<path d="M51.5681 1L26.9864 26.1808L1.00001 1" stroke-width="4" stroke="url(#paint0_diamond)"/>
 <defs>
 <radialGradient id="paint0_diamond" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(26.3755 13.6342) rotate(89.9829) scale(649.331 683817)">
 <stop stop-color="white"/>

@@ -16627,6 +16627,45 @@ header nav .nav-close-btn.active {
   }
 }
 
+@media screen and (min-width: 1000px) {
+  .news-block .slick-track {
+    top: 45px;
+  }
+
+  .news-block .exectly-news .slick-arrows button.next {
+    top: 4rem;
+    z-index: 100;
+  }
+
+  .news-block .exectly-news .slick-arrows button.prev {
+    bottom: -7rem;
+    z-index: 100;
+  }
+
+  .news-block .exectly-news .slick-arrows button.next img,
+  .news-block .exectly-news .slick-arrows button.prev img {
+    opacity: 0.5;
+    transition: opacity 0.3s;
+  }
+
+  .news-block .exectly-news .slick-arrows button.next:hover img,
+  .news-block .exectly-news .slick-arrows button.prev:hover img {
+    opacity: 1;
+  }
+}
+
+@media screen and (min-width: 1200px) {
+  .news-block .exectly-news .slick-arrows button.next {
+    top: 2rem;
+  }
+}
+
+@media screen and (min-width: 1700px) {
+  .news-block .exectly-news .slick-arrows button.next {
+    top: 1rem;
+  }
+}
+
 @media screen and (min-width: 1000px) and (min-height: 600px) {
   main .my-slider .my-slide p {
     font-size: 11.5px;
