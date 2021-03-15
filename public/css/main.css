@@ -26292,7 +26292,12 @@ main .my-slider .my-slide p::-webkit-scrollbar-thumb {
 }
 
 .partners.partners-left.partners-active .inheight {
-  margin-top: 10px;
+  margin-top: 1px;
+  margin-left: -13px;
+}
+
+.partners.partners-left.partners-active .inheight .more__vacancies {
+  color: orange;
 }
 
 .inheight {
