@@ -24,3 +24,13 @@ document.addEventListener('mousemove', function() {
     })
   }
 });
+
+
+// let noneImg = document.querySelector('.news-block .banner-block img.slick-slide');
+// console.log(noneImg)
+
+// if (noneImg) {
+//   noneImg.remove();
+//   $('.banner-slider').slick('unslick');
+//   $('.banner-slider').slick();
+// }
