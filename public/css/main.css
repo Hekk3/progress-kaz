@@ -24720,7 +24720,7 @@ main .my-slider .my-slide p::-webkit-scrollbar-thumb {
   }
   #news-page .slider-controls {
     /* margin-left: 15%; */
-    margin-left: 23%;
+    /*margin-left: 23%;*/
   }
   #news-page #news .previous {
     left: -53px;
@@ -24755,7 +24755,7 @@ main .my-slider .my-slide p::-webkit-scrollbar-thumb {
     font-size: 14px;
   }
   #news-page .slider-controls {
-    margin-left: 18.5%;
+    /*margin-left: 18.5%;*/
   }
 }
 
@@ -28808,6 +28808,7 @@ select.selectpicker {
   }
   #news-page .slider-controls {
     /* display: none; */
+    margin: 0 auto;
   }
   #news-page .slider-dots.noselect {
     /* display: none; */

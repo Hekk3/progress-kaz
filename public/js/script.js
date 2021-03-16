@@ -42,6 +42,3 @@ document.addEventListener('mousemove', function() {
     })
   }
 });
-
-
-// fixes
